@@ -1,0 +1,1 @@
+Files needed for adding your own skin to [this mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3660515816) following [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3660468335)
